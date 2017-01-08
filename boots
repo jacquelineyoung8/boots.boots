@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>boots</title>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <img src="food.jpg" alt="Boots's food bowl" style="width:304px;height:228px;">
+
+        
+    </body>
+</html>
