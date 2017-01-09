@@ -22,11 +22,12 @@
 -->
     </head>
     <body>
-        <div id="food"><img onmouseover=document.getElementByID("foodHover.png").sr onmouseout="normalImg(this)" border="0" src="smiley.gif" alt="Smiley" width="32" height="32"></div>
+        <div id="food"><img onmouseover="changeImg(this, 'foodHover.png')" onmouseout="changeImg(this, 'food.png')" border="0" src="food.png" alt="food"></div>
+        
         <script>
-        function hoverImg(originalImg, hoverImg, )
+        function changeImg(currentImg, newImg)
             {
-                
+                currentImg.src = newImg; 
             }
         </script>
     </body>

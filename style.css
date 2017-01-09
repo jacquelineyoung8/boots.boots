@@ -2,12 +2,3 @@ body {
     font-size:100px;
     
 }
-#food {
-    background-image: url('food.png');
-/*    height: 100%;*/
-}
-
-#food:hover {
-    background-image: url('foodHover.png');
-/*    height: 100%;*/
-}
