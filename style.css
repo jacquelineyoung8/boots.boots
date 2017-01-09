@@ -4,14 +4,10 @@ body {
 }
 #food {
     background-image: url('food.png');
-    height: auto;
-    width: auto;
-        
-    
+/*    height: 100%;*/
 }
 
 #food:hover {
     background-image: url('foodHover.png');
-    height: auto;
-    width: auto;
+/*    height: 100%;*/
 }
